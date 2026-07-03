@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Most people believe that getting a degree early and staying in one career lane is the safest path to financial security. I disagree. I've seen firsthand that building multiple income streams through a primary career, real estate, and side work, is far more stable than depending on a single employer. The job market is too volatile, especially in tech and healthcare IT, for that kind of loyalty to pay off. Diversification isn't just an investment strategy; it's a life strategy.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent, deliberate practice in a niche technical skill compounds faster than broad generalist knowledge.
 
 ### Evidence from my life
 
-Add your answer here...
+I focused deeply on HL7 interface development and InterSystems HealthConnect over 16+ years rather than spreading myself thin. That specialization led to Epic Bridges certification, senior-level roles across major health systems, and opportunities that generalists in my field couldn't access.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Owning income-generating property changes your financial trajectory more than salary increases alone.
 
 ### Evidence from my life
 
-Add your answer here...
+Managing a multi-unit Airbnb property taught me that active income has a ceiling, but real estate generates revenue even when I'm working my day job. The property required upfront work and learning, but it now operates as a parallel income stream alongside my career.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Academic credentials pursued alongside a full-time career force a level of discipline that accelerates both professional and personal growth simultaneously.
 
 ### Evidence from my life
 
-Add your answer here...
+Pursuing my graduate software engineering program at the University of Washington while working full-time in healthcare IT forced me to build tight focus systems. The coursework from algorithms to cloud engineering directly strengthened my technical depth on the job.
 
 ---
 
@@ -135,13 +135,19 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+By 2029, Boma Okoli had become one of the most recognized names at the intersection of healthcare IT integration and cloud-native architecture. What started as deep expertise in HL7 messaging and Epic Bridges certification had evolved into something far broader, a career defined by building systems that actually worked at scale.
+Boma shipped production-grade integration pipelines across multiple major health systems, leading migrations from legacy Cloverleaf environments to InterSystems HealthConnect and IRIS. Each migration wasn't just a technical upgrade, it reduced interface failure rates, improved lab result turnaround times, and gave clinical teams data they could trust. The work was documented, published on GitHub under the handle okolib, and referenced by other integration engineers navigating the same challenges.
+The graduate program at the University of Washington became the bridge between healthcare IT expertise and modern software engineering. Boma completed coursework in cloud web application engineering, operating systems, and algorithms, then applied those skills directly deploying containerized Flask applications on AWS EC2, implementing OAuth flows, and building systems hardened with nginx, gunicorn, and security best practices.
+Beyond the day job, Boma built a functioning real estate operation. The multi-unit Airbnb property stabilized as a reliable income stream, managed with the same systems-thinking discipline applied to technical work. The realtor license opened additional doors, giving Boma an informed perspective on asset acquisition that most engineers never develop.
+Community leadership emerged organically. As Founding Coordinator of the Masters Villa Estate Subscribers group, Boma led a cross-continental investor collective through a complex legal dispute drafting correspondence, coordinating votes across Nigeria, the UK, the US, and Australia, and holding the group together through uncertainty.
+By 2029, Boma's GitHub, LinkedIn, and published blog posts told a consistent story: someone who built things, shipped them, led when it mattered, and never waited for permission to grow.
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://medium.com/p/6ff257e0184b?postPublishedType=initial`
 
 ---
 
@@ -167,13 +173,15 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
+Yes
+
 If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+The feeling was mostly a low-grade stress that lingered longer than the shortcut was worth. There were moments early in my career where I documented an interface as complete before thorough edge-case testing, not out of laziness, but pressure to meet go-live deadlines. The guilt wasn't sharp; it was more like background noise. A quiet awareness that if something broke at 2 a.m., I'd know exactly why. That feeling of waiting for something to fail is worse than the discomfort of doing the work properly the first time. It taught me that shortcuts rarely save time, they just defer the cost with interest.
 
 ---
 
@@ -199,16 +207,18 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Phoenix Project – Gene Kim, Kevin Behr and George Spafford
+![book1](screenshots/week-01-screenshot-01.png)
+
+2. The Obstacle Is the Way – Ryan Holiday
+3. The Power of Positive Thinking - Norman Vincent Peale
+4. The Millionaire Real Estate Investor – Gary Keller
+5. Never Split the Difference – Chris Voss
+6. Designing Data-Intensive Applications – Martin Kleppmann
+7. The Pragmatic Programmer – David Thomas & Andrew Hunt
+8. Die with Zero – Bill Perkins
+9.  The Psychology of Money – Morgan Housel
+10. Extreme Ownership – Jocko Willink & Leif Babin
 
 ---
 
@@ -237,16 +247,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week (courses, reading, certifications)
+* Deep work sessions per week (uninterrupted technical or study blocks)
+* Projects shipped or documented (GitHub commits, deployments)
+* Airbnb occupancy rate and guest review score
+* Real estate leads contacted per month
+* Workouts or active movement sessions per week
+* Sleep hours per night (target 7+)
+* Weekly spending vs. savings rate
+* Pazino Group milestone progress (legal action steps completed)
+* Graduate coursework assignments submitted on time
 
 ---
 
@@ -272,7 +282,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +300,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon–Thu: 60–90 min DMI or grad coursework after work hours
+* Sat: DMI live session + assignment review
+* Sun: Weekly review — assess what shipped, what slipped, plan next week
+* Daily: 15 min Airbnb message monitoring and guest communication
 
 ---
 
@@ -298,11 +311,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Weekday evenings (8–10 PM), Saturday evenings (6–8 PM)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 sessions per week (4 weekday evenings + Saturday)
 
 ---
 
@@ -316,7 +329,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone on Do Not Disturb during deep work blocks
+* Social media check-ins limited to lunch and after 9 PM
+* Dedicated workspace used only for focused work — no TV in background
+* WhatsApp notifications muted during work sessions except Airbnb and Pazino Group threads
 
 ---
 
@@ -324,28 +340,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I already operate with multiple systems running in parallel; career, real estate, legal coordination, grad school, but I haven't been intentional enough about protecting my deep work time from the noise of all those threads.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Reactive mode. I tend to respond to whoever needs something most urgently rather than prioritizing what moves my own goals forward. This steals focus from long-term building.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+A daily 90-minute deep work block from 8:00–9:30 PM on weekdays, phone on Do Not Disturb, dedicated to either DMI work or grad coursework, no exceptions unless there's a genuine emergency.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://medium.com/p/6ff257e0184b`
 
 ---
 
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/p/6ff257e0184b
 
 ---
 
